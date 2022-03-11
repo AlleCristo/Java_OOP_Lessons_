@@ -1,4 +1,4 @@
-/*
+package Teoria;/*
     Static è utilizzato pe generare metodi o attributi non legati all' oggetto ma alla classe in generale
     ciò ci consente di poter chiamare tale metodo/attributo direttamente dalla classe, Es: Math.PI oppure Math.pow(2, 5)
  */
@@ -37,7 +37,7 @@ public class Car
     @Override
     public String toString()        //Override della funzione to string
     {
-        return "Car{" +
+        return "Teoria.Car{" +
                 "brand='" + brand + '\'' +
                 ", color='" + color + '\'' +
                 ", isOn=" + isOn +

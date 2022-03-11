@@ -1,3 +1,5 @@
+package Teoria;
+
 import java.util.Random;
 import java.util.Scanner;
 
@@ -7,7 +9,7 @@ public class Lezione_10_3_2022
      *  Documentazione Java : https://docs.oracle.com/en/java/javase/17/docs/api/index.html
      *
      *
-     *  ARGOMENTO: Stringhe, Input/Output, Random, Classi (Esempio: Car & TestMain)
+     *  ARGOMENTO: Stringhe, Input/Output, Random, Classi (Esempio: Teoria.Car & Teoria.TestMain)
      *
      */
 
