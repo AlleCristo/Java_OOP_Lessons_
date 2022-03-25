@@ -1,4 +1,4 @@
-package GeometricObject;
+package Esercizi.Interface.GeometricObject;
 
 import java.awt.*;
 

@@ -1,4 +1,4 @@
-package Esercizi.BankAccount;
+package Esercizi.Interface.BankAccount;
 
 /**
  * Implement the classes described in UML inside the png file contained in this package.

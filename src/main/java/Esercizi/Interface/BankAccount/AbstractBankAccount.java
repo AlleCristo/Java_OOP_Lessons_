@@ -1,4 +1,4 @@
-package Esercizi.BankAccount;
+package Esercizi.Interface.BankAccount;
 
 public abstract class AbstractBankAccount implements BankAccount
 {
